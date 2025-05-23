@@ -1,5 +1,5 @@
 
- ### 🎯 Student Marks Predictor – Day 1 of 7 Days of AI
+# 🎯 Student Marks Predictor – Day 1 of 7 Days of AI
 
 Predict student marks based on study hours using **Linear Regression**. This is part of the **“7 Days of AI: Build Real Projects with Me!”** sprint.
 
